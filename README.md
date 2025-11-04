@@ -38,7 +38,10 @@ Audio Effects Experimentation – It explores sound effects like bend and transp
 
 Screenshots
 
-Example screenshot
+<img width="602" height="442" alt="Screen Shot 2025-11-03 at 4 40 28 pm" src="https://github.com/user-attachments/assets/10738abd-d87b-4589-bc1b-241b44922cae" />
+
+<img width="735" height="630" alt="Screen Shot 2025-10-28 at 5 07 12 pm" src="https://github.com/user-attachments/assets/9a4331ab-d50c-49ec-ade2-fe3ee8ed3b8b" />
+
 
 Setup:
 
